@@ -20,10 +20,10 @@ Neste projeto, a ordenação é feita por **troca de valores (`data`) entre os n
 ## Complexidade do Algoritmo
 
 ### 🟢 Melhor Caso:
-$T(n)=\frac{n(n-1)}{2}\rightarrow O(n^2)$
+$T(n)=\frac{n(n-1)}{2}\rightarrow \Omega(n^2)$
 
 ### 🟡 Caso Médio:
-$T(n)=\frac{n(n-1)}{2}\rightarrow O(n^2)$
+$T(n)=\frac{n(n-1)}{2}\rightarrow \Theta(n^2)$
 
 ### 🔴 Pior Caso:
 $T(n)=\frac{n(n-1)}{2}\rightarrow O(n^2)$
